@@ -39,7 +39,7 @@
 		<command id="kb_grenade_throw"					exe="custom19"/>
 		<command id="kb_unload_all"						exe="custom15"/>
 		<command id="kb_lower_weapon"					exe="safemode"/>
-		
+		<command id="kb_switch_ubgl"					exe="custom16"/>
 	</group>
 	<group name="kb_grp_inventory">
 		<command id="kb_inventory"						exe="inventory"/>
