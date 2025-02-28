@@ -6,7 +6,9 @@ Two new options in `Settings -> Control -> Keybinds`
 ![SeparatedBinds](https://github.com/user-attachments/assets/5f899fe1-c8cd-40c1-8967-ae7edb207cf8)
 
 ## Installation guide
-### Mod installation (This will not be needed later, I just created this so it's easier to delete/disable everything if you want to)
+### Mod installation 
+This will not be needed later, nor the custom modded exes provided here, when the changes become part of the [themrdemonized / xray-monolith](https://github.com/themrdemonized/xray-monolith) repo.
+I will update this page once that happens, but before that I want to add another feature.
 
 Backup the `.exe` files you wish to replace, so rolling back the change could be achieved by just replacing mine with your backup.
 
