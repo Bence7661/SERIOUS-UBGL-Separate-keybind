@@ -12,7 +12,7 @@ I will update this page once that happens, but before that I want to add another
 
 Backup the `.exe` files you wish to replace, so rolling back the change could be achieved by just replacing mine with your backup.
 
-1. Download everything using the `Download ZIP` button
+1. Download everything using the `Download ZIP` button (If you came from ModDb and downloaded from there it's fine too. It's the exact same thing)
 
 ![image](https://github.com/user-attachments/assets/4d39fcb6-5d93-443d-af68-ef04d764b058)
 
