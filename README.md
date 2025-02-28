@@ -23,7 +23,7 @@ Backup the `.exe` files you wish to replace, so rolling back the change could be
 ![image](https://github.com/user-attachments/assets/ac8835fe-d6c8-45c5-82ce-993dfd890877)
 
 
-### Custom EXEs installation
+### Custom EXEs installation (built upon [V2025.2.25](https://github.com/themrdemonized/xray-monolith/releases/tag/2025.2.25))
 
 1. Open the `.ZIP` that you installed the mod from and navigate to `SERIOUS_UBGL_Separate_keybinds-main\Modded Exes`
 
